@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>나의 P5.js 작품 모음</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>나의 P5.js 작품 모음</h1>
+<p>아래 링크를 클릭하여 프로젝트를 감상하세요.</p>
+
+<section id="project">
+  <div class="project">
+    <a href="sample1/index.html">프로젝트 1 : 추상화</a>
+  </div>
+  <div class="project">
+    <a href="sample2/index.html">프로젝트 2 : 캐리커처</a>
+  </div>
+  <div class="project">
+    <a href="sample3/index.html">프로젝트 3 : 캐리커처 움직임</a>
+  </div>
+  <div class="project">
+    <a href="sample4/index.html">프로젝트 4 : 시간에 따른 움직임</a>
+  </div>
+</section>
+
+</body>
+</html>
